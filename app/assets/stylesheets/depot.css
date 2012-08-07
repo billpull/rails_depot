@@ -226,6 +226,10 @@
 .depot_form div {
   margin: 0.5em 0;
 }
+
+#store .entry form, #store .entry form div {
+  display: inline;
+}
 /* END:form */
 
 /* START:i18n */
